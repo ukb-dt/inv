@@ -34,7 +34,7 @@ Differentiate: $dE_x/dt$. Flow. The raw push of a thing trying to continue. Rive
 
 Differentiate again across worlds—$dE_{\bar{x}}/dt$. Constraint enters. Once you average or aggregate, you inherit arithmetic governors. The world pushes back. Even myths feel friction.
 
-You take the square root of curvature—$\pm \sqrt{(d^2E_x/dt^2)}. The sign is the hinge: acceleration or deceleration. The tilt of fate. Nietzsche would grin here because every turn of second derivative is a miniature genealogy: the origin of pressure, of motive forces, of “why this way rather than that.”
+You take the square root of curvature—$\pm \sqrt{\frac{d^2 E_x}{dt^2}}$. The sign is the hinge: acceleration or deceleration. The tilt of fate. Nietzsche would grin here because every turn of second derivative is a miniature genealogy: the origin of pressure, of motive forces, of “why this way rather than that.”
 
 Then integrate: $\int E_x dt + \epsilon_x t + C_x$. This is meaning. The accumulated trace. Narrative. A life is integration over disturbances plus the constant we keep forgetting we carry from childhood.
 
