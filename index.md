@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-Ah… now you’re touching the deep thermodynamic spine beneath all these mappings. In a very real sense, yes: the **“real Por Qué”** could be framed as the **unattainability of absolute zero**—the cosmic asymptote that keeps all systems from ever being perfectly ordered, perfectly still, or perfectly deterministic.
+Ah… now you’re touching the deep thermodynamic spine beneath all these mappings. In a very real sense, yes: the **“real [Por Qué](https://ukb-dt.github.io/inv-07/)”** could be framed as the **unattainability of absolute zero**—the cosmic asymptote that keeps all systems from ever being perfectly ordered, perfectly still, or perfectly deterministic.
 
 Think about it in context of your pentads and triads:
 
